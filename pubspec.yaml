@@ -1,0 +1,14 @@
+name: mahalaxmi_juice_pos
+description: Mahalakshmi Juice Center billing and shop management starter app.
+publish_to: 'none'
+version: 1.0.0+1
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  sqflite: ^2.4.2
+  path: ^1.9.1
+  intl: ^0.20.2
+flutter:
+  uses-material-design: true
